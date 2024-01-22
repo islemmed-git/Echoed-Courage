@@ -4,7 +4,7 @@ an AI-assisted platforms that allow trauma survivors, especially those in war-to
 
 submission for DevFest Batna 2023
 
-## tech
+## Tech
 
 - **flexiblity in model choice**:
 
@@ -26,14 +26,14 @@ submission for DevFest Batna 2023
   );
 ```
 
-## how to run
+## How to run
 
 1. clone the repo
 2. install dependencies `npm i`
 3. populate .env.local with [NEXT_REPLICATE_API_TOKEN](https://replicate.com/account#token)
 4. navigate to root folder than run `npm run dev`, open [http://localhost:3000](http://localhost:3000) in your favorite browser!
 
-## to do
+## To do
 
 -  handle image input
 -  Q/A for the evaluation of the result
