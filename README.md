@@ -1,8 +1,8 @@
 ﻿# ECHOED COURAGE
 
-an AI-assisted platforms that allow trauma survivors, especially those in war-torn areas, to share their experiences through simple input
+An AI-assisted platforms that allow trauma survivors, especially those in war-torn areas, to share their experiences through simple input
 
-submission for DevFest Batna 2023
+Submission for DevFest Hackathon Batna 2023
 
 ## Tech
 
